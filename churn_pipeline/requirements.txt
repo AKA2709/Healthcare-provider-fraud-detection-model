@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+imbalanced-learn
+mlflow
+dvc
+pandas
+numpy
+prometheus-client
+locust
+evidently
+pytest
