@@ -199,7 +199,5 @@ This project demonstrates **enterprise-grade ML practice**:
 
 ---
 
-## License
 
-This project uses publicly available synthetic data for educational purposes.
 
