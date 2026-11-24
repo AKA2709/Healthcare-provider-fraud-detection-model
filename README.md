@@ -185,7 +185,13 @@ python reports/generate_report.py  # Creates stakeholder PDF
 | **Notebooks** | Jupyter |
 
 ---
-
+Project Takeaways
+- Built an end-to-end fraud detection pipeline using structured healthcare claims data.
+- Investigated fraud patterns through hypothesis-driven analysis and statistical testing.
+- Addressed class imbalance using class-weighted model training.
+- Evaluated model performance using precision, recall, F1-score, ROC-AUC, and confusion matrix analysis.
+- Explored decision-threshold trade-offs to balance fraud detection against false-positive costs.
+- Organized the project into modular, reproducible components with documented outputs.
 
 
 
