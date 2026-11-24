@@ -186,18 +186,7 @@ python reports/generate_report.py  # Creates stakeholder PDF
 
 ---
 
-## Author Notes
 
-This project demonstrates **enterprise-grade ML practice**:
-- ✅ Clear problem scoping + hypothesis validation
-- ✅ Imbalanced classification best practices
-- ✅ Modular, reproducible code
-- ✅ Stakeholder-ready documentation
-- ✅ Real-world considerations (cost of errors, threshold tuning)
-
-**For recruiters:** This isn't "run a Kaggle model." It's **fraud detection done right**—understanding both the ML and the business context.
-
----
 
 
 
